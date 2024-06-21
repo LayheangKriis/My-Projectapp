@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Final</string>
+    <string name="welcome_message">Welcome to the Home Screen!</string>
+    <string name="user_info">User Information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- strings.xml -->
+    <string name="back_button_description">Back</string>
+
+</resources>

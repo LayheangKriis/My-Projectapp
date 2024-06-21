@@ -1,0 +1,13 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        app:icon="@drawable/ic_search"
+        android:background="@drawable/search_icon_background"
+        app:tint="@color/white"/>
+</menu>

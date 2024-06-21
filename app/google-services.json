@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1067618522213",
+    "firebase_url": "https://store-data-realtime-97d85-default-rtdb.firebaseio.com",
+    "project_id": "store-data-realtime-97d85",
+    "storage_bucket": "store-data-realtime-97d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067618522213:android:6ade5e4f2c7d412b1aa28c",
+        "android_client_info": {
+          "package_name": "com.layheang.appfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjXqbgLPiKryNOsxQhewEoezm76i9mLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
